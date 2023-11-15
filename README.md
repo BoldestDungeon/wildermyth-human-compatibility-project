@@ -11,7 +11,7 @@ This mod should be loaded at a lower priority than any mods that are built on to
 
 This mod includes the following files:
 
-* assets/data/aspects/human.json: This breaks the `human` aspect down into 4 additional aspects:
+* assets/data/aspects/human.json: This breaks the `human` aspect down into 5 additional aspects:
   * `humanBaseStats`: Includes all of the base human stats EXCEPT retirement age. Override this aspect to modify the basic human prowess.
   * `humanBaseRetirement`: Sets the base retirement age. Mods that only want to change the retirement threshold can do so without affecting the other stats.
   * `humanVoice`: Sets the character's voice to `human`. Allows keeping human base stats & effects without the voice when creating non-human races.
