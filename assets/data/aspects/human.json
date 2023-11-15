@@ -22,11 +22,17 @@
       "POTENCY": 0,
       "RANGE_ACCURACY": 100,
       "RECOVERY_RATE": 25,
-      "RETIREMENT_AGE": 45,
       "SPEED": 1,
       "STUNT_CHANCE": 15,
       "TENACITY": 15,
       "WARDING": 0
+    }
+  },
+  {
+    "modId": "human-compatibility-project",
+    "id": "humanBaseRetirement",
+    "stats": {
+      "RETIREMENT_AGE": 45,
     }
   },
   {
@@ -67,20 +73,20 @@
     "modId": "human-compatibility-project",
     "id": "basicInterfusionRecipes",
     "effects": [
-			"mysticRecipeFireleash",
-			"mysticRecipeSplinterblast",
-			"mysticRecipeDiscus",
-			"mysticRecipeWildGrasp",
-			"mysticRecipeLightLamp",
-			"mysticRecipeStealFire",
-			"mysticRecipeFlareLamp",
-			"mysticRecipeBoneSpear",
-			"mysticRecipeCaltrops",
-			"mysticRecipeShackle",
-			"mysticRecipeBarrage",
-			"mysticRecipeScaldingRain",
-			"mysticRecipeEngulf",
-			"mysticRecipeLassoShardnado"
+      "mysticRecipeFireleash",
+      "mysticRecipeSplinterblast",
+      "mysticRecipeDiscus",
+      "mysticRecipeWildGrasp",
+      "mysticRecipeLightLamp",
+      "mysticRecipeStealFire",
+      "mysticRecipeFlareLamp",
+      "mysticRecipeBoneSpear",
+      "mysticRecipeCaltrops",
+      "mysticRecipeShackle",
+      "mysticRecipeBarrage",
+      "mysticRecipeScaldingRain",
+      "mysticRecipeEngulf",
+      "mysticRecipeLassoShardnado"
     ],
     "importance": -1
   }
