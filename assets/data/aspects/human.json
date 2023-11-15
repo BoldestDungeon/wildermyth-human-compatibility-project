@@ -63,10 +63,10 @@
     ],
     "importance": -1
   },
-	{
-		"modId": "human-compatibility-project",
-		"id": "basicInterfusionRecipes",
-		"effects": [
+  {
+    "modId": "human-compatibility-project",
+    "id": "basicInterfusionRecipes",
+    "effects": [
 			"mysticRecipeFireleash",
 			"mysticRecipeSplinterblast",
 			"mysticRecipeDiscus",
@@ -81,7 +81,7 @@
 			"mysticRecipeScaldingRain",
 			"mysticRecipeEngulf",
 			"mysticRecipeLassoShardnado"
-		],
+    ],
     "importance": -1
-	}
+  }
 ]
